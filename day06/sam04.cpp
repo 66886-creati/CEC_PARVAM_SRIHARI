@@ -25,8 +25,8 @@ class Distance{
 
 int main(){
     Distance d1(25) , d2(25);
-    Distance d3 = d1 + d2;
-    d3.display();
+    Distance d3 = d1 + d2; // calls opertors
+    d3.display(); // it gives output given by the operators and its display it..
 
     return 0;
     
