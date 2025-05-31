@@ -1,0 +1,30 @@
+Charlie 457,9810008187,Charlie63@example.com,Street 26, City 5, PIN 560313,AB+,SID1003,Electronics & Communication Engineering,KCET,468.62,117,9.00,120000.00
+Peter 338,9810023534,Peter90@example.com,Street 63, City 2, PIN 560555,A+,SID1016,Electronics & Communication Engineering,KCET,351.71,237,5.50,120000.00
+Grace 824,9810010091,Grace166@example.com,Street 21, City 3, PIN 560912,B-,SID1007,Civil Engineering,Management,480.95,332,6.50,144000.00
+Ben 890,9810017384,Ben735@example.com,Street 26, City 8, PIN 560936,B+,SID1028,Mechanical Engineering,Management,488.76,483,11.00,162000.00
+Diana 167,9810002650,Diana81@example.com,Street 64, City 2, PIN 560142,O-,SID1004,Mechanical Engineering,Management,301.50,1133,8.10,162000.00
+Eve 928,9810006243,Eve125@example.com,Street 81, City 6, PIN 560017,O-,SID1005,Electronics & Communication Engineering,KCET,489.09,1159,7.00,120000.00
+Liam 161,9810012092,Liam58@example.com,Street 12, City 5, PIN 560392,A+,SID1012,Civil Engineering,KCET,329.90,1177,4.20,90000.00
+Anna 740,9810025425,Anna825@example.com,Street 33, City 7, PIN 560438,B-,SID1027,Mechanical Engineering,KCET,495.36,1549,5.80,100000.00
+Olivia 721,9810030309,Olivia140@example.com,Street 70, City 5, PIN 560263,A+,SID1015,Civil Engineering,KCET,353.29,1552,7.50,90000.00
+David 998,9810026880,David644@example.com,Street 74, City 1, PIN 560830,O-,SID1030,Civil Engineering,Management,354.85,1818,7.70,144000.00
+Bob 319,9810027654,Bob466@example.com,Street 92, City 4, PIN 560119,A-,SID1002,Mechanical Engineering,Management,445.15,1818,8.60,162000.00
+Frank 209,9810022818,Frank961@example.com,Street 55, City 0, PIN 560454,B-,SID1006,Mechanical Engineering,Management,326.52,1868,7.00,162000.00
+Zack 926,9810030107,Zack840@example.com,Street 88, City 7, PIN 560528,B+,SID1026,Civil Engineering,Management,434.15,1986,7.50,144000.00
+Alice 457,9810003050,Alice704@example.com,Street 1, City 9, PIN 560443,B+,SID1001,Civil Engineering,Management,462.18,2172,3.20,144000.00
+Noah 514,9810025946,Noah371@example.com,Street 28, City 7, PIN 560623,O-,SID1014,Mechanical Engineering,Management,474.35,2239,6.70,162000.00
+Judy 434,9810029468,Judy320@example.com,Street 39, City 5, PIN 560250,O-,SID1010,Electronics & Communication Engineering,KCET,438.03,2579,7.20,120000.00
+Uma 296,9810014504,Uma392@example.com,Street 56, City 9, PIN 560981,O-,SID1021,Civil Engineering,Management,398.26,2751,7.20,144000.00
+Ivan 794,9810000622,Ivan271@example.com,Street 57, City 9, PIN 560688,A-,SID1009,Civil Engineering,KCET,316.48,2821,5.90,90000.00
+Rachel 582,9810019320,Rachel521@example.com,Street 58, City 0, PIN 560681,B+,SID1018,Electronics & Communication Engineering,KCET,436.00,3012,11.60,120000.00
+Yara 985,9810004441,Yara467@example.com,Street 69, City 8, PIN 560765,A-,SID1025,Electronics & Communication Engineering,Management,434.57,3129,7.20,180000.00
+Sam 508,9810006208,Sam475@example.com,Street 10, City 6, PIN 560688,B+,SID1019,Electronics & Communication Engineering,Management,487.07,3368,7.50,180000.00
+Mia 432,9810023108,Mia717@example.com,Street 36, City 8, PIN 560700,AB-,SID1013,Computer Science Engineering,Management,449.46,3414,12.80,225000.00
+Heidi 457,9810008791,Heidi461@example.com,Street 88, City 7, PIN 560105,O-,SID1008,Electronics & Communication Engineering,Management,333.71,3875,3.70,180000.00
+Wendy 741,9810027131,Wendy476@example.com,Street 40, City 6, PIN 560580,B-,SID1023,Mechanical Engineering,KCET,372.92,3954,4.60,100000.00
+Victor 738,9810024841,Victor703@example.com,Street 70, City 0, PIN 560158,O+,SID1022,Mechanical Engineering,Management,340.97,4123,9.30,162000.00
+Quinn 451,9810010634,Quinn679@example.com,Street 60, City 3, PIN 560239,O+,SID1017,Mechanical Engineering,Management,484.23,4513,10.30,162000.00
+Tina 280,9810004254,Tina533@example.com,Street 59, City 9, PIN 560657,AB-,SID1020,Computer Science Engineering,KCET,364.15,4551,12.20,150000.00
+Kevin 974,9810018441,Kevin424@example.com,Street 48, City 0, PIN 560406,AB-,SID1011,Computer Science Engineering,KCET,467.53,4553,4.30,150000.00
+Xavier 121,9810018484,Xavier404@example.com,Street 21, City 5, PIN 560279,B-,SID1024,Electronics & Communication Engineering,KCET,336.88,4576,7.70,120000.00
+Chloe 368,9810004740,Chloe522@example.com,Street 92, City 8, PIN 560693,AB+,SID1029,Civil Engineering,Management,448.03,4877,7.00,144000.00

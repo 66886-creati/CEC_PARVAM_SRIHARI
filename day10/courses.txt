@@ -1,0 +1,4 @@
+Computer Science Engineering,150000,250000
+Electronics & Communication Engineering,120000,200000
+Mechanical Engineering,100000,180000
+Civil Engineering,90000,160000
